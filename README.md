@@ -3,7 +3,7 @@ I’m currently focusing on the Machine Learning fields, please visit [my websit
 - 🤔 You may interested in [Scraper](https://github.com/HZEmpire/Scraper), a tool for extracting open source videos.
 - 🌱 You can also try out [PerspectiveCorrection](https://github.com/HZEmpire/PerspectiveCorrection), a simple Python tool to process your photos.
 - 🔭 I'm a photographer, please visit my [Photo Gallery](https://hzempire.github.io/PhotoGallery/index.html) here.
-- 👯 I’m seeking for 2025 Summer SWE/MLE internship opportunites, feel free to contact me through (email)[mailto:xhz1@connect.hku.hk].
+- 👯 I’m seeking for 2025 Summer SWE/MLE internship opportunites, feel free to contact me through [email](mailto:xhz1@connect.hku.hk).
 
 <!--
 **HZEmpire/HZEmpire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
