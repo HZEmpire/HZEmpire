@@ -2,6 +2,7 @@
 I’m currently focusing on the Machine Learning fields, please visit [my website](https://hzempire.github.io/) for a list of my recent projects.
 - 🤔 You may interested in [Scraper](https://github.com/HZEmpire/Scraper), a tool for extracting open source images and videos.
 - 🌱 You can also try out [PerspectiveCorrection](https://github.com/HZEmpire/PerspectiveCorrection), a simple Python tool to process your photos.
+- 💬 I'm looking for any Quant lover's suggestion on my [Backtest Simulation](https://github.com/HZEmpire/Backtest_Simulation) and [Feature Analysis](https://github.com/HZEmpire/Feature_Analysis) scripts.
 - 🔭 I'm a photographer, please visit my [Photo Gallery](https://hzempire.github.io/PhotoGallery/index.html) here.
 - 👯 I’m seeking for 2025 Summer SWE/MLE internship opportunites, feel free to contact me through [email](mailto:xhz1@connect.hku.hk).
 
